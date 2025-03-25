@@ -4,3 +4,4 @@ How are you?
 lets learn some concept of Machine Learning
 Linear Regression
 Logical Regression
+KNN
