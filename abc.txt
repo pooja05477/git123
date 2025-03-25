@@ -5,3 +5,4 @@ lets learn some concept of Machine Learning
 Linear Regression
 Logical Regression
 KNN
+Artificial Neural Network
