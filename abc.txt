@@ -6,3 +6,4 @@ Linear Regression
 Logical Regression
 KNN
 Artificial Neural Network
+Convolutional Neural Network
