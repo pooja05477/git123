@@ -6,3 +6,4 @@ Linear Regression
 Logical Regression
 KNN
 K Means Clustering
+Classification
