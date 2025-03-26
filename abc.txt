@@ -5,5 +5,11 @@ lets learn some concept of Machine Learning
 Linear Regression
 Logical Regression
 KNN
+
+Artificial Neural Network
+Convolutional Neural Network
+
 K Means Clustering
 Classification
+
+git remote add origin https://github.com/pooja05477/git123.git
